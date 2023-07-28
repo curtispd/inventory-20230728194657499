@@ -1,0 +1,15 @@
+{
+  "repository_url": "https://github.com/curtispd/hello-containers-20230728194657499.git",
+  "artifact": "de.icr.io/curtispd/hello-containers-20230728194657499",
+  "build_number": 1,
+  "commit_sha": "31c6564b311269e2e164a0a20c8030b974c6b779",
+  "name": "hello-containers-20230728194657499",
+  "pipeline_run_id": "72015638-b8cf-4311-a3a3-4e398b7e7186",
+  "version": "v1",
+  "signature": "sha256:5bb1936a6c421e037d63cbedfad1c258d941f42489cfdb801916b1f3bd54011b",
+  "REGISTRY_URL": "de.icr.io",
+  "REGISTRY_NAMESPACE": "curtispd",
+  "IMAGE_NAME": "hello-containers-20230728194657499",
+  "IMAGE_TAGS": "1-main-31c6564b-20230728195027",
+  "IMAGE_MANIFEST_SHA": "sha256:5bb1936a6c421e037d63cbedfad1c258d941f42489cfdb801916b1f3bd54011b"
+}
